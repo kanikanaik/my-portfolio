@@ -6,7 +6,7 @@ const AnimatedCursor = dynamic(() => import("react-animated-cursor"), {ssr: fals
 
 function Cursor() {
   return (
-    <div>
+    <div> 
      <AnimatedCursor
      innerSize={30} 
      outerSize={30} 
